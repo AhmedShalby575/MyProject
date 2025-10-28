@@ -8,8 +8,8 @@ It contains basic files like HTML, CSS, and JavaScript to demonstrate version co
 Creating a Git repository <br>
 Committing and pushing changes <br>
 Managing branches <br>
-Writing a clean README file <br>
-🛠️ Technologies Used <hr>
+Writing a clean README file <hr>
+🛠️ Technologies Used <br>
 HTML <br>
 CSS <br>
 JavaScript <br>
