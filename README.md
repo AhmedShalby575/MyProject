@@ -12,11 +12,13 @@ It contains basic files like HTML, CSS, and JavaScript to demonstrate version co
       <li>Writing a clean README file</li>
 </ul><hr>
 🛠️ Technologies Used <br>
-HTML <br>
-CSS <br>
-JavaScript <br>
-Git & GitHub <br>
-📫 Contact <hr>
+<ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Git & GitHub</li>
+</ul><hr>
+📫 Contact <br>
 📧 ahmedshalby575@gmail.com <br>
 🌐 [GitHub Profile](https://github.com/ِAhmedShalby575)
 
